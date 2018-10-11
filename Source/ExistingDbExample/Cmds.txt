@@ -1,0 +1,4 @@
+
+# Create the models from an existing database.  You need
+# to create the database first by running the CreateDatabase.sql first.
+dotnet ef dbcontext scaffold 'Server=localhost;Database=ExistingDbExample;Trusted_Connection=False;User ID=sa;Password=Password1234!' Microsoft.EntityFrameworkCore.SqlServer -o Models -c ExistingDbExampleContext --context-dir Database
