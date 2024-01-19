@@ -1,6 +1,8 @@
 # Introduction to ORMs Presentation
 Presentation and examples that introduce ORM concepts to developers.  The theory applies to most ORMs but the examples focus on Enitty Framework.
 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/saturdaymp?label=Sponsors&logo=githubsponsors&labelColor=3C444C)](https://github.com/sponsors/saturdaymp)
+
 # Demo Quickstart
 The demos where inspired by the Entity Framework Core [demos](https://docs.microsoft.com/en-us/ef/core/get-started/netcore/new-db-sqlite).
 
